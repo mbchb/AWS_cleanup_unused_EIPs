@@ -1,2 +1,1 @@
-# AWS_cleanup_unused_EIPs
-I've developed an AWS Lambda function using Python and Boto3 to automatically delete unused Elastic IPs (EIPs) in your AWS account. This solution helps optimize resources and reduce unnecessary costs by removing EIPs that are not associated with any EC2 instances. The Lambda function is triggered by Amazon EventBridge every Friday at 6:00 PM.
+Developed a serverless solution utilizing AWS Lambda, Python, and Boto3 to automate the cleanup of unused Elastic IPs (EIPs) in AWS accounts. The Lambda function is triggered by Amazon EventBridge, scheduled to run every Friday at 6:00 PM IST. It identifies and deletes EIPs that are not associated with any EC2 instances, optimizing resource utilization and reducing unnecessary costs.
