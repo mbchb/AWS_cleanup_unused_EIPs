@@ -1,4 +1,4 @@
-<div align="center">
+<div style="text-align:center">
 ![alt text](https://github.com/mbchb/AWS_cleanup_unused_EIPs/blob/main/Architecture.png)
 </div>       
 <div align="justify">
